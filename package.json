@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "homepage":"https://johnrtwyford.github.io/theJockey",
   "license": "ISC",
+  "homepage":"https://johnrtwyford.github.io/Jockey",
   "dependencies": {
     "gh-pages": "^6.0.0"
   }
